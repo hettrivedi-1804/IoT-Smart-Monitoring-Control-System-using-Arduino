@@ -1,0 +1,6 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"U3",1,"PCF8574-based, 32 (0x20) LCD 16 x 2 (I2C)"
+"DIST1",1," Ultrasonic Distance Sensor (4-pin)"
+"SERVO1, SERVO2",2,"Positional Micro Servo"
+"SEN1",1," Soil Moisture Sensor"
